@@ -1,0 +1,19 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 618
+  ClientWidth = 349
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Rectangle1: TRectangle
+    Align = Client
+    Fill.Color = xFFF2F2F2
+    Size.Width = 349.000000000000000000
+    Size.Height = 618.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+  end
+end

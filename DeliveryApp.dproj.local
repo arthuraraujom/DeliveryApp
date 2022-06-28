@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/22 17:26:50.000.295,=C:\Users\Arthur Moreira\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 15:42:08.000.125,=C:\Users\Arthur Moreira\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 15:43:02.000.425,C:\Users\Arthur Moreira\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\view\view.main.pas</Transaction>
+    <Transaction>2022/06/27 15:43:02.000.425,C:\Users\Arthur Moreira\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\view\view.main.fmx</Transaction>
+    <Transaction>2022/06/27 15:43:14.000.168,C:\Users\Arthur Moreira\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\DeliveryApp.dproj</Transaction>
+    <Transaction>2022/06/27 16:05:42.000.353,C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\view\view.main.fmx=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\view\view.item.fmx</Transaction>
+    <Transaction>2022/06/27 16:05:42.000.353,C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\view\view.main.pas=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\view\view.item.pas</Transaction>
+    <Transaction>2022/06/27 16:32:27.000.149,=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 16:32:44.000.119,C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\Unit1.fmx=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\view\view.main.fmx</Transaction>
+    <Transaction>2022/06/27 16:32:44.000.119,C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\Unit1.pas=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\view\view.main.pas</Transaction>
+    <Transaction>2022/06/28 09:20:33.408,=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 09:21:17.269,C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\commons\commons.types.pas=C:\Users\Arthur Moreira\Documents\Projetos\DeliveryApp\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

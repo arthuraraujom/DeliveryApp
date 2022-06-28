@@ -1,0 +1,10 @@
+unit commons.types;
+
+interface
+
+type
+  TCommons_types_size = (ts_small, ts_middle, ts_larger);
+
+implementation
+
+end.
